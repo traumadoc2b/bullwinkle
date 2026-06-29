@@ -8,3 +8,4 @@ I started with review of online resources
 https://favtutor.com/articles/github-beginners-guide/
 Created new repo with basic rules, branch protections
 
+Newest repo, updates June 2026
