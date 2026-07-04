@@ -9,3 +9,13 @@ https://favtutor.com/articles/github-beginners-guide/
 Created new repo with basic rules, branch protections
 
 Newest repo, updates June 2026
+
+Coding Links
+Proxmox
+https://pve.proxmox.com/wiki/Main_Page
+
+Proxmox Helper Scripts
+https://community-scripts.github.io/ProxmoxVE/
+
+Vim
+https://vim.rtorr.com/
