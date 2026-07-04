@@ -7,3 +7,4 @@ uses Google SSO
 Do NOT expose API, SSH keys, secrets, etc in Github
 
 https://tailscale.com/
+https://community-scripts.org/scripts/add-tailscale-lxc
