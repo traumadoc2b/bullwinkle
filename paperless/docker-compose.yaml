@@ -83,13 +83,13 @@
       - ./ollama/data/:/root/.ollama
       - ./ollama/models:/ollama-models
     restart: unless-stopped
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: all
-              capabilities: [gpu]
+    # deploy:
+    #  resources:
+    #    reservations:
+    #      devices:
+    #        - driver: nvidia
+    #          count: all
+    #          capabilities: [gpu]
 
   # paperless-ai service
   paperless-ai:
