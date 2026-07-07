@@ -3,3 +3,4 @@
 UUID=2FFA-05F2 /boot/efi vfat defaults 0 1
 /dev/pbs/swap none swap sw 0 0
 proc /proc proc defaults 0 0
+192.168.10.201:/var/nfs/shared/dudley  /mnt/temp  nfs  defaults  0  0
